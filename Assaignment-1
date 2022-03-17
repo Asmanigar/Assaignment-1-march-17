@@ -1,0 +1,7 @@
+duplist = [1,2,3,1,2,3,3,5,5,3]
+print("List items = ",duplist)
+
+uniqSet = set(dupList)
+uniqList = list(uniqSet)
+ 
+ print("List items after removing Duplicates = ",uniqList)
